@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 #TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/stonewin540/XHCategory'
+  s.homepage         = 'http://stonewin540.synology.me:10080/specs/xhcategory'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xuanhao' => 'stonewin540@icloud.com' }
-  s.source           = { :git => 'https://github.com/stonewin540/XHCategory.git', :tag => s.version.to_s }
+  s.source           = { :git => 'ssh://git@stonewin540.synology.me:10022/specs/xhcategory.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
