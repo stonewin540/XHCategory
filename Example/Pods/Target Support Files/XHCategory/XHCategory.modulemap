@@ -1,0 +1,6 @@
+framework module XHCategory {
+  umbrella header "XHCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
