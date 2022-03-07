@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'XHCategory/Classes/**/*'
+  s.source_files = 'XHCategory/Classes/*'
   s.public_header_files = 'XHCategory/Classes/*.h'
   
   # s.resource_bundles = {

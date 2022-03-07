@@ -1,11 +1,11 @@
 PODS:
-  - XHCategory (0.1.0):
-    - XHCategory/XHCGCategory (= 0.1.0)
-    - XHCategory/XHNSCategory (= 0.1.0)
-    - XHCategory/XHUICategory (= 0.1.0)
-  - XHCategory/XHCGCategory (0.1.0)
-  - XHCategory/XHNSCategory (0.1.0)
-  - XHCategory/XHUICategory (0.1.0)
+  - XHCategory (0.1.2):
+    - XHCategory/XHCGCategory (= 0.1.2)
+    - XHCategory/XHNSCategory (= 0.1.2)
+    - XHCategory/XHUICategory (= 0.1.2)
+  - XHCategory/XHCGCategory (0.1.2)
+  - XHCategory/XHNSCategory (0.1.2)
+  - XHCategory/XHUICategory (0.1.2)
 
 DEPENDENCIES:
   - XHCategory (from `../`)
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XHCategory: 5fe33ea492b09e1b1cfdfafbbf079edf5ad723ed
+  XHCategory: f8715225ad2c4ccdfc126dee0e3ed695f0c896c7
 
 PODFILE CHECKSUM: 5b258ac93e6c692e651584a02706d99c03178f40
 
