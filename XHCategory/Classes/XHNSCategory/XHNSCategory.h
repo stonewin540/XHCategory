@@ -10,5 +10,6 @@
 
 #import "NSAttributedString+XHCategory.h"
 #import "NSDictionary+XHCategory.h"
+#import "NSMutableArray+XHCategory.h"
 
 #endif /* XHNSCategory_h */
