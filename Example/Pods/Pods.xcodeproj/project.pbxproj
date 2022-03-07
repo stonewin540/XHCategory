@@ -55,7 +55,7 @@
 
 /* Begin PBXFileReference section */
 		0239657486C4CE94AECA4377F77F9AFF /* CGGeometry+XHCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CGGeometry+XHCategory.h"; sourceTree = "<group>"; };
-		02644B11AF94B6C12FCD0A1E24AF9E9C /* XHCategory.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XHCategory.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		02644B11AF94B6C12FCD0A1E24AF9E9C /* XHCategory.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = XHCategory.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		0564E2DA43B698714BCDAD795DE1C2DB /* NSAttributedString+XHCategory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSAttributedString+XHCategory.m"; sourceTree = "<group>"; };
 		0E87693DDD3B4047B2DE7E5DEF9085A8 /* XHCategory-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XHCategory-Info.plist"; sourceTree = "<group>"; };
 		17964D071EAF9CDB1B43735AFD15B3AD /* UIViewController+XHCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+XHCategory.h"; sourceTree = "<group>"; };
@@ -68,11 +68,11 @@
 		2FB513803DBA2EEC21C0419ADEF5079C /* XHCategory-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XHCategory-dummy.m"; sourceTree = "<group>"; };
 		3342E4A1DC07A91A1C11475620AA48CE /* NSDictionary+XHCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+XHCategory.h"; sourceTree = "<group>"; };
 		3A32338F643CFEB2E5B988D8B835B48F /* Pods-XHCategory_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XHCategory_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		41F6E706C3E005A063C8277DE76156D3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		41F6E706C3E005A063C8277DE76156D3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		432E6AE78CD546FD760B7D31FB2B6A61 /* NSAttributedString+XHCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+XHCategory.h"; sourceTree = "<group>"; };
 		46398D6A3D7E14D5CD628441EFEA3375 /* Pods-XHCategory_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XHCategory_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		4937313F47B585B261BFF6E173E1A7CA /* Pods-XHCategory_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-XHCategory_Tests"; path = Pods_XHCategory_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4EAA30B456F4BDE7D521106221BE6173 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		4EAA30B456F4BDE7D521106221BE6173 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		50D056BD7226BB0CA213D8B1CE081E3C /* XHCategory.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XHCategory.modulemap; sourceTree = "<group>"; };
 		51CD0004824279872033AAAF2EB2A13A /* NSMutableArray+XHCategory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+XHCategory.m"; sourceTree = "<group>"; };
 		58573BBCFA570890D7378543909E37DD /* Pods-XHCategory_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XHCategory_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -87,7 +87,7 @@
 		9390FFAC1AEFCF1746FA9071D839B838 /* NSDictionary+XHCategory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+XHCategory.m"; sourceTree = "<group>"; };
 		93B473CB79C9221DCE51BCA7D3D53219 /* XHCategory.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XHCategory.debug.xcconfig; sourceTree = "<group>"; };
 		9483304F8B687F3AE3574C802833390B /* XHUICategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XHUICategory.h; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9EF575FE72B05D28847C7A8F1E13861A /* Pods-XHCategory_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XHCategory_Tests-Info.plist"; sourceTree = "<group>"; };
 		A1107FB93856CD51D088BB21C84678D2 /* Pods-XHCategory_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XHCategory_Example-umbrella.h"; sourceTree = "<group>"; };
 		B3C5D0E8BE632E0BB2247CE27FDD3836 /* Pods-XHCategory_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XHCategory_Example.modulemap"; sourceTree = "<group>"; };
@@ -783,8 +783,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
